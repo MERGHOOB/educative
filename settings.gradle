@@ -1,2 +1,3 @@
 rootProject.name = 'educative'
+include 'library'
 
