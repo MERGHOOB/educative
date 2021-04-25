@@ -2,7 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
-      <module name="educative.amazon-shopping-cart" target="11" />
+      <module name="educative.amazon-shopping-cart.main" target="11" />
+      <module name="educative.amazon-shopping-cart.test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
