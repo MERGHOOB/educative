@@ -1,3 +1,4 @@
 rootProject.name = 'educative'
 include 'library'
+include 'amazon-shopping-cart'
 
