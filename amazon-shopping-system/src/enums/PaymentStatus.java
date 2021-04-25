@@ -1,0 +1,6 @@
+package enums;
+
+public enum PaymentStatus {
+
+    UNPAID, PENDING, COMPLETED, FAILED, DECLINED, ABONDONED, SETTLING, SETTLED, REFUNDED
+}
